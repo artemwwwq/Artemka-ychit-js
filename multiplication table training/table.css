@@ -1,0 +1,47 @@
+.wrapper {
+  height: 500px;
+  padding: 50px;
+  width: 500px;
+  margin: 100px auto 0px auto;
+  box-shadow: 1px 1px 20px -5px black;
+}
+
+button {
+  background: #fff;
+  cursor: pointer;
+  width: 225px;
+  display: block;
+  height: 50px;
+  border: 1px solid #000;
+  margin: 20px auto;
+  font-family: "Dosis", sans;
+  font-size: 18px;
+  font-weight: 200;
+  color: #000;
+  text-transform: uppercase;
+  text-decoration: none;
+  text-align: center;
+  opacity: 0.8;
+  letter-spacing: 1px;
+}
+
+p {
+  font-size: 50px;
+  text-align: center;
+}
+
+input {
+  padding: 50px;
+  margin: 0 auto;
+  font-size: 30px;
+  display: block;
+}
+
+#question {
+  font-size: 50px;
+  text-align: center;
+}
+
+#game-countainer {
+  display: none;
+}
