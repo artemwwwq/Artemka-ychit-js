@@ -1,0 +1,7 @@
+.defoult-input {
+    border: green 5px solid;
+  }
+
+  .error-input {
+    border: red 5px solid;
+  }
